@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/klnah.petheaven.io/static/css/main.6ff074a6.css",
+    "main.js": "/klnah.petheaven.io/static/js/main.329f52e5.js",
+    "static/js/453.7780256c.chunk.js": "/klnah.petheaven.io/static/js/453.7780256c.chunk.js",
+    "static/media/dog1.jpg": "/klnah.petheaven.io/static/media/dog1.bb48d174d007a2a95ddb.jpg",
+    "static/media/cat4.png": "/klnah.petheaven.io/static/media/cat4.17dd43abd86d00dda22c.png",
+    "static/media/cat3.jpg": "/klnah.petheaven.io/static/media/cat3.a99ab6e270ae47115a3a.jpg",
+    "static/media/cat1.jpg": "/klnah.petheaven.io/static/media/cat1.85de9b9a2babd29023df.jpg",
+    "static/media/dog3.jpg": "/klnah.petheaven.io/static/media/dog3.e6c3d4416b3bc39082d6.jpg",
+    "static/media/cat2.jpg": "/klnah.petheaven.io/static/media/cat2.0a72b6fb06d8346aa481.jpg",
+    "static/media/aboutimage.jpg": "/klnah.petheaven.io/static/media/aboutimage.450f5b6448dc5b9f7f4f.jpg",
+    "static/media/dog2.jpg": "/klnah.petheaven.io/static/media/dog2.7fb0bb8fab0ef12b61c0.jpg",
+    "static/media/backgroundpic.jpg": "/klnah.petheaven.io/static/media/backgroundpic.d6ec887f6c8a55d1454e.jpg",
+    "static/media/petHeaven_logo.png": "/klnah.petheaven.io/static/media/petHeaven_logo.301560ad243d251d24ac.png",
+    "index.html": "/klnah.petheaven.io/index.html",
+    "main.6ff074a6.css.map": "/klnah.petheaven.io/static/css/main.6ff074a6.css.map",
+    "main.329f52e5.js.map": "/klnah.petheaven.io/static/js/main.329f52e5.js.map",
+    "453.7780256c.chunk.js.map": "/klnah.petheaven.io/static/js/453.7780256c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff074a6.css",
+    "static/js/main.329f52e5.js"
+  ]
+}
