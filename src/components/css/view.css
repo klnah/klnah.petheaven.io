@@ -1,0 +1,81 @@
+
+
+ /* .view-container {
+    text-align: center;
+    padding: 20px;
+  }  */
+
+  h2 {
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', sans-serif;
+  }
+  .h2-text{
+    font-size: 60px;
+    color: #a45c40;
+  }
+
+
+  .card-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .logout {
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    /* margin-right: 10px; */
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+    background-color: #c38370; /* Coral */
+    color: white;
+}
+
+.logout:hover {
+    opacity: 0.8;
+}
+
+
+  .card-title {
+    color: #a45c40;
+    font-weight: bold;
+  }
+
+  .card {
+    background-color: #f6eee0;
+    border: none;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+  .card-text {
+    color: #c38370;
+    font-size: 1rem;
+  }
+
+  button {
+    background-color: #a45c40 !important;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background-color: #c38370 !important;
+  }
+.container-header-title{
+    display: flex;
+    justify-content: space-between;
+
+}
+  

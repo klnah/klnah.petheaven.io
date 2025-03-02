@@ -1,0 +1,22 @@
+.container-header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.logout {
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    /* margin-right: 10px; */
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+    background-color: #c38370; /* Coral */
+    color: white;
+}
+
+.logout:hover {
+    opacity: 0.8;
+}

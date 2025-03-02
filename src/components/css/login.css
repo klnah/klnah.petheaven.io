@@ -1,0 +1,78 @@
+
+
+.card {
+    /* width: 40%;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border: 2px solid #a45c40; Desert Sun */
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border: 2px solid #a45c40; /*Desert Sun*/ 
+    /* margin-left: 20px; */
+    margin: 2%;
+    margin-left: 100px;
+}
+
+.card-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #a45c40; /* Desert Sun */
+    margin-bottom: 20px;
+}
+
+.card-body .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+label{
+    /* display: flex; */
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.form-control {
+    width: 100%;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid #c38370; /* Coral */
+    border-radius: 5px;
+    background-color: #f6eee0; /* Cream */
+}
+
+.errmsg {
+    color: red; 
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-primary {
+    background-color: #e4b7a0; /* Peach */
+    color: white;
+}
+
+
+
+.btn-success {
+    background-color: #c38370; /* Coral */
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

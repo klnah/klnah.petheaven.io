@@ -1,0 +1,76 @@
+
+
+.card {
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border: 2px solid #a45c40; /*Desert Sun*/ 
+    /* margin-left: 20px; */
+    margin: 2%;
+    margin-left: 100px;
+}
+
+.card-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #a45c40; /* Desert Sun */
+    margin-bottom: 20px;
+}
+
+.card-body .form-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+label{
+    /* display: flex; */
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+.form-control, .form-control-address{
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #c38370; /* Coral */
+    border-radius: 5px;
+    background-color: #f6eee0; /* Cream */
+}
+
+.errmsg {
+    color: red; /* Desert Sun */
+}
+
+.gender-options {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #e4b7a0; /* Peach */
+    color: white;
+}
+
+.btn-danger {
+    background-color: #c38370; /* Coral */
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

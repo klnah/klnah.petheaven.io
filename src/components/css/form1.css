@@ -1,0 +1,66 @@
+.container-form{
+        width: 80%;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        border: 2px solid #a45c40; /*Desert Sun*/ 
+        margin: 2%;
+        margin-left: 100px;
+}
+.header{
+    
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #a45c40; /* Desert Sun */
+    margin-bottom: 20px;
+    /* margin-left: 20px; */
+    padding-left: 50px;
+}
+
+.card-body .form-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #c38370; /* Coral */
+    border-radius: 5px;
+    background-color: #f6eee0; /* Cream */
+}
+
+.reasoninput{
+    width: 90%;
+}
+
+
+
+.submitform {
+    /* padding: 10px 20px; */
+    border-radius: 5px;
+    text-decoration: none;
+    /* margin-right: 10px; */
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+    background-color: #c38370; /* Coral */
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
